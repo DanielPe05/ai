@@ -1,5 +1,12 @@
 # @ai-sdk/workflow-harness
 
+## 1.0.71
+
+### Patch Changes
+
+- f9d847d: Avoid replaying a pending tool input when its output arrives in a later time slice.
+  - @ai-sdk/harness@1.0.71
+
 ## 1.0.70
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # ai
 
+## 7.0.65
+
+### Patch Changes
+
+- 72ec74f: Preserve root-level JSON Schema definitions when wrapping array output schemas.
+- c5b0515: Propagate errors thrown by the Chat `onFinish` callback to the initiating request.
+
 ## 7.0.64
 
 ### Patch Changes
