@@ -1,5 +1,11 @@
 # ai
 
+## 5.0.236
+
+### Patch Changes
+
+- c425210: Propagate errors thrown by chat `onFinish` callbacks.
+
 ## 5.0.235
 
 ### Patch Changes
